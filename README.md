@@ -18,6 +18,7 @@ Built with **HTML, CSS, and Tailwind CSS (CLI Version)** for a fully responsive,
 
 
 ## 🌐 Live Preview
+https://github.com/Rauf0505/Personal-Portfolio
 
 ## 🧠 Technologies Used
 - HTML  
@@ -25,7 +26,7 @@ Built with **HTML, CSS, and Tailwind CSS (CLI Version)** for a fully responsive,
 - Tailwind CSS (CLI Version)  
 
 
-## 🎨 Color Palette and Typography
+##  Color Palette and Typography
 
 | Variable | Value | Description |
 |-----------|--------|-------------|
