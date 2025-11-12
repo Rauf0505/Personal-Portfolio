@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+/* Root Variables for Colors and Typography */
+:root {
+  /* Colors */
+  --primary-color: #1d4ed8;  /* blue-700 */
+  --secondary-color: #f59e0b; /* amber-500 */
+  --background-color: #000000;
+  --text-color: #ffffff;
+
+  /* Typography */
+  --h1-size: 3rem;   /* 48px */
+  --h2-size: 2.25rem; /* 36px */
+  --h3-size: 1.5rem;  /* 24px */
+  --p-size: 1rem;    /* 16px */
+}
+
+/* Apply typography and background color */
+@layer base {
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  h1 { font-size: var(--h1-size); }
+  h2 { font-size: var(--h2-size); }
+  h3 { font-size: var(--h3-size); }
+  p  { font-size: var(--p-size); }
+}
+
+
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  display: inline-flex;
+  animation: marquee 15s linear infinite;
+}
