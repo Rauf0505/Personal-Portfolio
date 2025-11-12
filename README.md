@@ -1,4 +1,4 @@
-# 💻 Personal Portfolio Website
+#  Personal Portfolio Website
 
 **Student Name:** Abdul Rauf  
 **Student ID:**   650035
@@ -6,21 +6,21 @@
 **Instructor:** Sir OMAR  
 
 
-## 📘 Project Summary
+##  Project Summary
 This is my personal portfolio website designed to showcase my **skills, education, and projects** as a Software Engineering student.  
 It includes a **hero section with a video background**, an **about section**, **skills grid**, **education timeline**, **project showcase**, and a **contact form**.  
 Built with **HTML, CSS, and Tailwind CSS (CLI Version)** for a fully responsive, clean, and modern design.
 
 
-## 🎨 Design Reference Files
+##  Design Reference Files
 - **Project Documentation (Google Docs):** https://docs.google.com/document/d/10JihJ-2xjQ12EsgKoa7fqRNPdcgAV0dXFm1vi6QZIXM/edit?usp=sharing
 
 
 
-## 🌐 Live Preview
+##  Live Preview
 https://github.com/Rauf0505/Personal-Portfolio
 
-## 🧠 Technologies Used
+##  Technologies Used
 - HTML  
 - CSS  
 - Tailwind CSS (CLI Version)  
@@ -40,7 +40,7 @@ https://github.com/Rauf0505/Personal-Portfolio
 
 > All styling is handled using Tailwind CSS utility classes for responsiveness and consistency.
 
-## ✨ Features
+##  Features
 - Responsive navigation bar with hover effects  
 - Fullscreen **video hero section** with animated scroll indicator  
 - About Me section with introduction and animated illustration  
@@ -51,7 +51,7 @@ https://github.com/Rauf0505/Personal-Portfolio
 - Footer with **animated scrolling name marquee** and copyright  
 
 
-## 📂 Project Structure
+##  Project Structure
 
 portfolio/
 ├── assets/
